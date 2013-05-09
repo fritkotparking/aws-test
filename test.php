@@ -1,3 +1,3 @@
 <?php
 
-echo "wat een test 2";
+echo "wat een test 4";
