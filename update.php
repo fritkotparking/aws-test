@@ -1,1 +1,1 @@
-<?php `git pull`; ?>
+<?php `sudo -u ubuntu git pull`; ?>
